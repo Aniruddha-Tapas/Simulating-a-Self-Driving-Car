@@ -5,7 +5,7 @@
 
 Overview
 ============
-A project that trains a virtual car to how to move an object around a screen (drive itself) without running into obstacles using a type of reinforcement learning called Q-Learning. More information can be found on the writeup about this project in [part 1](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6), [part 2](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.vbakopk4o), and [part 3](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f). 
+A project that trains a virtual car to move an object around a screen (drive itself) without running into obstacles using a type of reinforcement learning called Q-Learning. More information can be found on the writeup about this project in [part 1](https://medium.com/@harvitronix/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6), [part 2](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-part-2-93e614fcd238#.vbakopk4o), and [part 3](https://medium.com/@harvitronix/reinforcement-learning-in-python-to-teach-an-rc-car-to-avoid-obstacles-part-3-a1d063ac962f). 
 
 Dependencies
 ============
